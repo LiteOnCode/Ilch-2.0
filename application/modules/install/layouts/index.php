@@ -22,7 +22,7 @@
     <body>
         <div class="container">
             <div class="col-lg-offset-2 col-lg-8 col-md-12 col-sm-12 install_container">
-                <div class="logo" title="<?=$this->getTrans('ilchInstall', VERSION ) ?>"></div>
+                <div class="logo" title="<?=$this->getTrans('ilchInstall', VERSION) ?>"></div>
                 <div class="installVersion" title="<?=$this->getTrans('ilchInstall', VERSION) ?>">
                     <?=$this->getTrans('ilchInstallVersion', VERSION) ?>
                 </div>
